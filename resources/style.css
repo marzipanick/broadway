@@ -10,11 +10,32 @@ html {
   color: white;
 }
 
+h1, h2, h3 {
+  font-weight: bold;
+}
+
 h1 {
   font-size: 70px;
-  font-weight: bold;
 }
 
 nav {
   font-size: 18px;
+}
+
+h2 {
+  font-size: 32px;
+}
+
+h3 {
+  font-size: 23px;
+}
+
+p {
+  font-size: 14px;
+}
+
+.new_york {
+  font-size: 23px;
+  color: white;
+  background-image: url("./images/the-flatiron-building.png");
 }
